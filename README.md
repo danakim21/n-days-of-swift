@@ -14,3 +14,16 @@ Changes "Hello" according to the submitted name
 Show different images in alphabetical order, utilizing Table Views, Image Views, App Bundles, File Manager, Type Casting, View Controllers, Storyboards, Outlets, Auto Layout, and UIImage. 
 
 *Project Reference*: [Hacking With Swift](https://www.hackingwithswift.com/)
+
+## Project 03: [Doit ImageView](https://github.com/danakim21/nDaysOfSwift/tree/master/Project%2003%20-%20Doit%20ImageView)
+
+Two buttons to resize and turn on/off the lightbulb 
+
+*Project Reference*: Book 스위프트로 아이폰 앱 만들기 4th Edition
+
+## Project 04: [Doit ImageView2](https://github.com/danakim21/nDaysOfSwift/tree/master/Project%2004%20-%20Doit%20ImageView2)
+
+Image Viewer to view multiple images and move with Previous/Next buttons 
+
+*Project Reference*: Book 스위프트로 아이폰 앱 만들기 4th Edition
+
