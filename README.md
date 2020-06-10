@@ -27,3 +27,14 @@ Image Viewer to view multiple images and move with Previous/Next buttons
 
 *Project Reference*: Book 스위프트로 아이폰 앱 만들기 4th Edition
 
+## Project 05: [Doit ImageView2](https://github.com/danakim21/nDaysOfSwift/tree/master/Project%2005%20-%20Doit%20DatePicker)
+
+Shows current date and time, and selects date and time using the date picker 
+
+*Project Reference*: Book 스위프트로 아이폰 앱 만들기 4th Edition
+
+## Project 06: [Doit ImageView2](https://github.com/danakim21/nDaysOfSwift/tree/master/Project%2006%20-%20Doit%20DatePicker2)
+
+Based on project 5, creating an alarm timer 
+
+*Project Reference*: Book 스위프트로 아이폰 앱 만들기 4th Edition
