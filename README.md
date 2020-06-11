@@ -1,7 +1,7 @@
 # n Days of Swift
 
 ## Learning Swift 
-Inspired by [Allen Wang](https://github.com/allenwong)'s [30 Days of Swift](https://github.com/allenwong/30DaysofSwift/blob/master/README.md), I decided to compile a list of projects I'm working on to master Swift. Most of the projects are guided through a book called "스위프트로 아이폰 앱 만들기 4th Edition" and Paul Hudson's [Hacking with Swift](https://www.hackingwithswift.com/). 
+Inspired by [Allen Wang](https://github.com/allenwong)'s [30 Days of Swift](https://github.com/allenwong/30DaysofSwift/blob/master/README.md), I decided to compile a list of projects I'm working on to master Swift. Most of the projects are guided through a book called "스위프트로 아이폰 앱 만들기 4th Edition" and Paul Hudson's [Hacking with Swift](https://www.hackingwithswift.com/). Under each project folder, there is a recorded gif of the corresponding project. 
 
 ## Project 01: [Doit HelloWorld](https://github.com/danakim21/nDaysOfSwift/tree/master/Project%2001%20-%20Doit%20HelloWorld)
 
