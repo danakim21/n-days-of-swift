@@ -38,3 +38,9 @@ Shows current date and time, and selects date and time using the date picker
 Based on project 5, creating an alarm timer 
 
 *Project Reference*: Book 스위프트로 아이폰 앱 만들기 4th Edition
+
+## Project 07: [Doit PickerView](https://github.com/danakim21/nDaysOfSwift/tree/master/Project%2007%20-%20Doit%20PickerView)
+
+Uses PickerView to go through a list of pictures and show the picture 
+
+*Project Reference*: Book 스위프트로 아이폰 앱 만들기 4th Edition
