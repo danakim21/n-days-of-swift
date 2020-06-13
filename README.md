@@ -60,14 +60,14 @@ Uses PickerView with two columns; first column changes the selected itme's name 
 *Project Reference*: Book 스위프트로 아이폰 앱 만들기 4th Edition
 
 
-## Project 09: [Doit PickerView2](https://github.com/danakim21/nDaysOfSwift/tree/master/Project%2009%20-%20Doit%20Alert)
+## Project 09: [Doit Alert](https://github.com/danakim21/nDaysOfSwift/tree/master/Project%2009%20-%20Doit%20Alert)
 
 Uses alert to turn on, turn off, and remove the lamp 
 
 *Project Reference*: Book 스위프트로 아이폰 앱 만들기 4th Edition
 
 
-## Project 10: [Doit PickerView2](https://github.com/danakim21/nDaysOfSwift/tree/master/Project%2010%20-%20Doit%20AlarmAlert)
+## Project 10: [Doit AlarmAlert](https://github.com/danakim21/nDaysOfSwift/tree/master/Project%2010%20-%20Doit%20AlarmAlert)
 
 Alerts when the selected time matches the current time 
 
